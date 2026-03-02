@@ -11,7 +11,8 @@
 				"D:/Unreal/GraduationRetailGame/Content/Blueprints/DataTables/DialogueRowStructure.uasset",
 				"D:/Unreal/GraduationRetailGame/Content/Blueprints/BP_GameFlowManager.uasset",
 				"D:/Unreal/GraduationRetailGame/Content/Blueprints/BP_LastigeKlantManager.uasset",
-				"D:/Unreal/GraduationRetailGame/Content/Blueprints/DataTables/DT_Scenario1.uasset"
+				"D:/Unreal/GraduationRetailGame/Content/Blueprints/DataTables/DT_Scenario1.uasset",
+				"D:/Unreal/GraduationRetailGame/Content/Blueprints/Widgets/E_ChoiceType.uasset"
 			]
 		}
 	]
