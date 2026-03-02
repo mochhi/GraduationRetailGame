@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/GraduationRetailGame/Content/Blueprints/Widgets/WBP_DialoogUI.uasset",
+				"D:/Unreal/GraduationRetailGame/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/W1/0YNGSXWB22Y6W8GB4QTWXB.uasset",
+				"D:/Unreal/GraduationRetailGame/Content/__ExternalActors__/TopDown/Lvl_TopDown/8/YF/JNBHH8Z4C2JRU9RTKGYGTW.uasset",
+				"D:/Unreal/GraduationRetailGame/Content/Blueprints/DataTables/DialogueRowStructure.uasset",
+				"D:/Unreal/GraduationRetailGame/Content/Blueprints/BP_GameFlowManager.uasset",
+				"D:/Unreal/GraduationRetailGame/Content/Blueprints/BP_LastigeKlantManager.uasset",
+				"D:/Unreal/GraduationRetailGame/Content/Blueprints/DataTables/DT_Scenario1.uasset"
+			]
+		}
+	]
+}
