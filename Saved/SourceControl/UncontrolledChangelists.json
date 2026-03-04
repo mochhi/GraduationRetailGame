@@ -12,7 +12,12 @@
 				"D:/Unreal/GraduationRetailGame/Content/Blueprints/BP_GameFlowManager.uasset",
 				"D:/Unreal/GraduationRetailGame/Content/Blueprints/BP_LastigeKlantManager.uasset",
 				"D:/Unreal/GraduationRetailGame/Content/Blueprints/DataTables/DT_Scenario1.uasset",
-				"D:/Unreal/GraduationRetailGame/Content/Blueprints/Widgets/E_ChoiceType.uasset"
+				"D:/Unreal/GraduationRetailGame/Content/Blueprints/Widgets/E_ChoiceType.uasset",
+				"D:/Unreal/GraduationRetailGame/Content/Blueprints/DataTables/F_ActionSetRow.uasset",
+				"D:/Unreal/GraduationRetailGame/Content/Blueprints/DataTables/F_DialogueRow.uasset",
+				"D:/Unreal/GraduationRetailGame/Content/Characters/Mannequins/Rigs/CR_Mannequin_FootIK.uasset",
+				"D:/Unreal/GraduationRetailGame/Content/Blueprints/E_ScoreZone.uasset",
+				"D:/Unreal/GraduationRetailGame/Content/Blueprints/DataTables/DT.uasset"
 			]
 		}
 	]
